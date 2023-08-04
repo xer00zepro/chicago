@@ -1,0 +1,6 @@
+To remove Google Maps 3D addon content next to the main playable area of Windy City downtown simply follow the instructions below.
+
+Open up server.cfg and remove the following line:
+start gm_chicago
+
+Clear the server cache and restart it.

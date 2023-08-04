@@ -1,0 +1,5 @@
+start rmp_chicago
+start gm_chicago
+start rmp_chicago_def
+start scenario
+start script

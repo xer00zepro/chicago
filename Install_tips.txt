@@ -1,0 +1,5 @@
+Recommend using Lambda Menu trainer to airbreak and have a general trainer functionality: https://forum.cfx.re/t/release-lambda-menu/146
+NaturalVision Evolved (NVE) shall be used with Optional file set in Razed released to work properly on FiveM.
+
+Check the changelog for version updates on description part of the page: https://www.gta5-mods.com/maps/windy-city-windy-city-christmas-edition
+You can also get the Story Mode version there.
